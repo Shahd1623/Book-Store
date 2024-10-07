@@ -49,6 +49,10 @@ const DiscountPage = ({ bookImage1, bookImage2 }) => {
           <img src={bookImage2} alt="Discount Book 2" className="discount_img-2" />
         </div>
       </div>
+      <br></br>
+      <br></br>
+      <br></br>
+     
       <Footer/>
     </section>
   );

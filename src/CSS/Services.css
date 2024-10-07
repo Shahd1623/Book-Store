@@ -15,8 +15,8 @@
     text-align: center;
 }
 
-.services-title{
+.service-title{
     font-size: var(--h3-font-size);
-    color:var(--title-color);
+    color:  whitesmoke;
     margin-bottom: 8px;
 }
